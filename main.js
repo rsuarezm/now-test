@@ -1,0 +1,1 @@
+console.log('Static web deployment with Now')
